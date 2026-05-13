@@ -7,7 +7,6 @@ public class App {
 
     public static Car[] makeCarsList() {
         Car[] cars = new Car[20];
-
         cars[0] = new Car("Toyota", 2020);
         cars[1] = new Car("TOYOTA", 2018);
         cars[2] = new Car("toyota", 2022);
